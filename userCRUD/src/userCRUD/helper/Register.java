@@ -1,10 +1,4 @@
-/**
- * This class is used for registration.
- * it checks userID entered by the user, 
- * if it is already present then it asks user to try something else.
- * 
- * @author Tamanna Jain
- */
+
 package userCRUD.helper;
 
 import static userCRUD.utilities.ScannerUtil.scan;
